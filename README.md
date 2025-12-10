@@ -1,4 +1,4 @@
-# Email-Automation-
+# Email-Automation
 We need to build a small email automation using SmolAgent.
 •	Create a fake Gmail account for testing.
 •	The system should use IMAP to fetch new emails from this account.
